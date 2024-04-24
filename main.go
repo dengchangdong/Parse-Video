@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/dengchangdong/Parse-Video/parser"
+	"github.com/wujunwei928/parse-video/parser"
 
 	"github.com/gin-gonic/gin"
 )
